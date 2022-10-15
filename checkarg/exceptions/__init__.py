@@ -1,5 +1,6 @@
 from .error_messages import (
     DefaultErrorMessages,
+    DictErrorMessages,
     ListErrorMessages,
     NoneTypeErrorMessages,
     NumberErrorMessages,
